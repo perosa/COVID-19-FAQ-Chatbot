@@ -1,0 +1,33 @@
+<!-- <!DOCTYPE html> -->
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+   
+   <br/>
+    <br/>
+    <a href="#" onclick="localStorage.clear(); location.reload();">Reload</a>
+    <div id="webchat"></div>
+    <script src="https://storage.googleapis.com/mrbot-cdn/webchat-latest.js"></script>
+    <script>
+      WebChat.default.init({
+        selector: "#webchat",
+        initPayload: "/session_start",
+        inputTextFieldHint: "Say Hi or ask me something",
+        customData: { language: "en" }, 
+        socketUrl: "http://localhost:5005",
+        socketPath: "/socket.io/",
+        storage: "session",
+        profileAvatar: "coronavirus.png",
+        title: "Corona Info BOT",
+        subtitle: "FAQ about COVID-19",
+        displayUnreadCount: true,
+        showFullScreenButton: true,
+        showMessageDate: true,
+        openLauncherImage: "coronavirus.png",
+        embedded: false // true for full screen
+      });
+    </script>
+  </body>
+</html>

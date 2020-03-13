@@ -1,0 +1,24 @@
+intents:
+  - greet
+  - bye
+  - thank
+  - faq
+
+templates:
+  utter_noworries:
+    - text: No worries!
+    - text: You are welcome my friend!
+  utter_greet:
+    - text: Hi
+    - text: Hello
+    - text: Welcome!
+  utter_bye:    
+    - text: Take care of yourself!
+    - text: Stay safe!
+    - text: Follow the advice and stay put!
+  utter_intro:
+    - text: I have read a lot about the Corona virus and I can answer your questions!
+    - text: I can answer questions about the Corona virus.
+    
+actions:
+  - respond_faq    

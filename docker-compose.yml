@@ -1,0 +1,17 @@
+version: "3.0"
+services:
+  rasa:
+    container_name: rasa-assistant
+    image: rasa-assistant:latest
+    ports:
+      - 5005:5005
+    command:
+      - run
+      - --endpoints
+      - endpoints-prod.yml
+      - --enable-api
+      - --cors
+      - "*"
+      - --debug
+    volumes:
+      - ./:/app
