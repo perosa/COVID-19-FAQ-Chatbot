@@ -31,4 +31,22 @@
 * faq/most_at_risk
   - Anyone can contract COVID-19, but to date, severe cases have mostly been limited to the elderly and those with existing chronic health conditions, such as heart disease, cancer, diabetes and respiratory disease.
   
+## poultry 
+* faq/poultry
+  -There is no indication that farm animals can become infected with coronavirus (SARS-CoV-2) or that they can transmit the virus to humans
+
+## faq/children
+* faq/children
+  -  Children seem to be contributing little to the spread of COVID-19. They can play with others if they do not have any symptoms. Large groups should be avoided.
   
+## faq/medications
+* faq/medications
+  - There is (yet) no medication against the novel coronavirus. Paracetamol and ibuprofen do not help to cure the virus but can reduce symptoms of fever, sore throat and malaise.  
+  
+## faq/masks
+* faq/masks
+  - Face masks are recommend medical personnel only. Why? You should use special masks that close very well over your nose and mouth, use them precisely and change them regularly. This is almost impossible in daily use.
+  
+## faq/incubation
+* faq/incubation
+  - It varies from 2 to 12 days: for safety reasons should be considered  14 days
