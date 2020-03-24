@@ -53,7 +53,8 @@
 
 ## intent: faq/spread_after_quarantine
 - can someone who has been quarantined for COVID-19 spread the illness to others?
-- is someone after quarantined still contagieous?
+- is someone after quarantined still contagious?
+- If I get COVID-19, will I then be immune, or could I get re-infected?
 
 ## intent: faq/symptoms
 - What symptoms should I be on the lookout for?
