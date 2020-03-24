@@ -58,6 +58,9 @@
 ## intent: faq/symptoms
 - What symptoms should I be on the lookout for?
 - Which are the symptoms?
+- Is it dangerous?
+- Can it be lethal?
+- How bad is the virus?
 
 ## intent: faq/what_to_do
 - What should I do if I have these symptoms?
