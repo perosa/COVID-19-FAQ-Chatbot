@@ -22,13 +22,13 @@
 
 <script>
 function init() {
-alert('Do stuff here');
+
 WebChat.default.init({
 selector: "#webchat",
 initPayload: "/session_start",
 inputTextFieldHint: "Say Hi or ask me something",
 customData: { language: "en" },
-socketUrl: "https://rasa-covid.herokuapp.com/",
+socketUrl: "http://localhost:5005",
 socketPath: "/socket.io/",
 storage: "session",
 profileAvatar: "coronavirus.png",
