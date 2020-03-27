@@ -2,11 +2,12 @@ FROM rasa/rasa:1.8.0
 
 COPY . /app
 
-# the entry point
 EXPOSE 5005
 
 COPY startup.sh /app/scripts/startup.sh
+COPY shell.sh /app/scripts/shell.sh
 
 ENTRYPOINT []
-CMD /app/scripts/startup.sh
+ENV shell_mode false
+CMD sh -c 'if [ "$shell_mode" = false ]; then /app/scripts/startup.sh; else  /app/scripts/shell.sh; fi'
 

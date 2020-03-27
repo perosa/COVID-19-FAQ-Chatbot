@@ -3,7 +3,7 @@ docker build -t perosa/rasa-covid .
 
 docker run -it perosa/rasa-covid shell
 
-docker run -it --rm -p 5005:5005 perosa/rasa-covid
+docker run -p 5005:5005 -e PORT=5005 -e shell_mode=true -it --rm perosa/rasa-covid
 
 rasa run --endpoints endpoints-prod.yml --cors "*" --enable-api --debug
 
