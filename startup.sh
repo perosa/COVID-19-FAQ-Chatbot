@@ -1,1 +1,1 @@
-rasa run -p $PORT --endpoints endpoints-prod.yml --cors "*" --enable-api --debug
+rasa run -p $PORT --cors "*" --debug
