@@ -37,19 +37,20 @@
 - how does it spread?
 - how does it move?
 - how do people get infected?
+- how is the virus spread?
 
 ## intent: faq/spread_no_sick
 - can someone spread the virus without being sick?
-- do people carry the virus without sympthoms?
+- do people carry the virus without symptoms?
 
 ## intent: faq/spread_objects
 - can the Corona virus spread from contact with contaminated surfaces or objects?
 - does the virus survive on objects?
 - does the virus survive on surfaces?
-- Can you get infected with the coronavirus through products or touching surfaces?
+- Can you get infected with the Corona through products or touching surfaces?
 - Can you get the virus touching objects or surfaces?
 - Do I need to clean the shopping?
-- Can you get infected with the coronavirus by mail (letters, parcels)?
+- Can you get infected with the Corona by mail (letters, parcels)?
 
 ## intent: faq/spread_after_quarantine
 - can someone who has been quarantined for COVID-19 spread the illness to others?
@@ -62,15 +63,17 @@
 - Is it dangerous?
 - Can it be lethal?
 - How bad is the virus?
+- Can I die from the virus?
+- Can you die from the virus?
 
 ## intent: faq/what_to_do
 - What should I do if I have these symptoms?
-- Seek help when sympthoms are present
+- Seek help when symptoms are present
 - What are cold-like symptoms?
 
 ## intent: faq/most_at_risk
-- Who is at most risk for contracting a severe case of coronavirus?
-- Which categoties of people are more at risk?
+- Who is at most risk for contracting a severe case of Corona virus?
+- Which categories of people are more at risk?
 - who is most at danger?
 
 ## intent: faq/poultry
@@ -97,5 +100,23 @@
 - Could the incubation period be much longer than 14 days?
 - How long is the incubation of the virus?
 
+## intent: faq/prevention
+- How can I protect myself?
+- How can I protect myself?
+- What can I do to prevent infection?
+- What do I do to prevent infection?
+- What should I do to limit the risk of infection?
 
+## intent: faq/dryers
+- Do hand dryers prevent COVID-19?
+- Does a dryer help preventing Corona virus?
+
+## intent: faq/water
+- Is public water safe?
+- Is it safe to drink water from fountains?
+
+## intent: faq/pets
+- Can pets be infected with COVID-19?
+- Do pets carry the virus?
+- Can domestic animals get infect
 

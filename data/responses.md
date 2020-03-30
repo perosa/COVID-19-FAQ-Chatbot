@@ -41,7 +41,7 @@
   
 ## faq/medications
 * faq/medications
-  - There is (yet) no medication against the novel coronavirus. Paracetamol and ibuprofen do not help to cure the virus but can reduce symptoms of fever, sore throat and malaise.  
+  - There is (yet) no medication against the novel Corona virus. Paracetamol and ibuprofen do not help to cure the virus but can reduce symptoms of fever, sore throat and malaise.  
   
 ## faq/masks
 * faq/masks
@@ -50,3 +50,19 @@
 ## faq/incubation
 * faq/incubation
   - It varies from 2 to 12 days: for safety reasons should be considered  14 days
+  
+## faq/prevention
+* faq/prevention
+  - The key to handwashing is to wash, with soap, often and wash well for at least 20 seconds.  
+  
+## faq/dryers
+* faq/dryers
+  - Hand dryers are not effective in preventing COVID-19, and should be avoided when hands are not properly cleaned
+  
+## faq/water
+* faq/water
+  - Public drinking water supplies are safe to drink (should avoid touching the spout and lever around though)
+  
+## faq/pets
+* faq/pets
+  - There is no reason to think that animals might be a source of infection with this new virus.
