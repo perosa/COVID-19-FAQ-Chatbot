@@ -4,7 +4,10 @@ intents:
   - thank
   - faq
 
-templates:
+responses:
+  utter_default:
+    - text: I didnt get that, say again please.
+    - text: I didnt understand, can you please ask again?
   utter_noworries:
     - text: No worries!
     - text: You are welcome my friend!
@@ -19,6 +22,8 @@ templates:
   utter_intro:
     - text: I have read a lot about the Corona virus and I can answer your questions!
     - text: I can answer questions about the Corona virus.
-    
+
+
 actions:
-  - respond_faq    
+  - utter_default
+  - respond_faq
